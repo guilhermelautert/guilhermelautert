@@ -1,3 +1,5 @@
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=guilhermelautert&bg_color=282a36&color=ffffff&line=520070&point=c5b4b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div>
   <a href="https://github.com/guilhermelautert">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=guilhermelautert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
