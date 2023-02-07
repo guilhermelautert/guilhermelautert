@@ -1,9 +1,8 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=guilhermelautert&bg_color=282a36&color=ffffff&line=520070&point=c5b4b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=guilhermelautert&bg_color=000000&color=5c0056&line=5c0056&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <a href="https://github.com/guilhermelautert">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=guilhermelautert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" weight="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelautert&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilhermelautert&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Lautert github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelautert&layout=compact&hide_border=true&title_color=9400D3&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
   ##
