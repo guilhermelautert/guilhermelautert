@@ -1,6 +1,7 @@
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermelautert&theme=midnight-purple">
-  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermelautert&theme=midnight-purple&border_color:#000000">
+  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple&border_color:#000000
+">
 </div>
   
   ##
