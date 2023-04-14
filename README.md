@@ -1,6 +1,6 @@
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermelautert&theme=midnight_pruple">
-  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelautert&layout=compact&theme=midnight_pruple">
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermelautert&show_icons=true&theme=midnight_purple">
+  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelautert&layout=compact&theme=midnight_purple">
 </div>
   
   ##
