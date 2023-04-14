@@ -1,4 +1,4 @@
-<div align="center"><br>
+<div dir="auto"><br>
   <img widht="150px"src="https://github-readme-stats.vercel.app/api?username=guilhermelautert&show_icons=true&theme=midnight-purple">
   <img widht="150px" height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelautert&layout=compact&theme=midnight-purple">
 </div>
