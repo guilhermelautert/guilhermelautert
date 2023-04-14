@@ -14,3 +14,4 @@
   
  <div  align="center"><br>
   <a href="https://instagram.com/guilherme.lautert" target="_blank"><img alt="insta" height="40" weigth="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-lautert-de-lima-5639ba252/" target="_blank"><img alt="linkedin" height="40" weigth="40" src="https://user-images.githubusercontent.com/123305899/232071662-85d61ce4-97bf-4fdf-b0bf-c720538af49f.png" target="_blank"></a>
